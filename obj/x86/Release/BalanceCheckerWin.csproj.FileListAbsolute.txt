@@ -1,0 +1,7 @@
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\bin\Release\BalanceCheckerWin.exe
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\bin\Release\BalanceCheckerWin.pdb
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\obj\x86\Release\BalanceCheckerWin.Form1.resources
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\obj\x86\Release\BalanceCheckerWin.Properties.Resources.resources
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\obj\x86\Release\BalanceCheckerWin.csproj.GenerateResource.Cache
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\obj\x86\Release\BalanceCheckerWin.exe
+D:\vbgsoft\Karnan\BalanceCheckerWin\BalanceCheckerWin\obj\x86\Release\BalanceCheckerWin.pdb
